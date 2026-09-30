@@ -12,25 +12,63 @@
 
 ---
 
-## 🧩 关于我 & 🌳 正在做的事
-
-| 🧩 关于我 | 🌳 LeetCode Hot 100 笔记库 |
-| --- | --- |
-| 🤖 正在学习 **Agent 开发** | 📁 一题一文件夹：题目整理 + 新手向讲解 |
-| ☕🐹 同时修炼 **Java / Go 后端** | 🎬 部分题目配互动动画（浏览器直接玩） |
-| 🔥 刷题进行时：**LeetCode Hot 100** | 🧠 每招配一句口诀 + 优雅版/新手版对照 |
-| 🏫 **CUPK** 在校生 | 🚀 [**github.com/Baicaicn23/leetcode-notes**](https://github.com/Baicaicn23/leetcode-notes) |
-
----
-
-## 📊 GitHub 统计
+## 🛠 技术栈
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Baicaicn23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baicaicn23&layout=compact&theme=tokyonight&hide_border=true" alt="Top langs" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java,go,git,github,linux,md,vscode&perline=8" alt="Tech Stack" />
+</a>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Baicaicn23&theme=tokyonight&hide_border=true" alt="Streak stats" />
+<!-- ✏️ 想加图标：在 i= 后面追加，如 nodejs,docker,idea（见 skillicons.dev） -->
+
+</div>
+
+## 🧩 关于我
+
+- 🤖 正在学习 **Agent 开发**，同时修炼 **Java / Go 后端**；
+- 🔥 刷题进行时：**LeetCode Hot 100**——一题一文件夹，题目整理 + 新手向讲解；
+- 🧠 每招配一句口诀 + 优雅版/新手版对照，🎬 部分题目配互动动画（浏览器直接玩）；
+- 🏫 **CUPK** 在校生。
+
+## 🌳 LeetCode 笔记库
+
+<div align="center">
+
+<a href="https://github.com/Baicaicn23/leetcode-notes">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Baicaicn23&repo=leetcode-notes&theme=tokyonight" alt="leetcode-notes" width="420" />
+</a>
+
+</div>
+
+## 🐍 贪吃蛇
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Baicaicn23/Baicaicn23/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Baicaicn23/Baicaicn23/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Baicaicn23/Baicaicn23/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+## 📊 统计
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baicaicn23&theme=tokyonight" alt="profile details" width="100%" />
+
+<br/>
+
+| | |
+| --- | --- |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Baicaicn23&theme=tokyonight" alt="repos per language" width="100%" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Baicaicn23&theme=tokyonight" alt="most commit language" width="100%" /> |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Baicaicn23&theme=tokyonight" alt="stats" width="100%" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Baicaicn23&theme=tokyonight" alt="productive time" width="100%" /> |
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Baicaicn23&theme=tokyonight&hide_border=true" alt="streak stats" width="70%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Baicaicn23&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="activity graph" width="100%" />
 
 </div>
 
