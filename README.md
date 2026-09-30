@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=1E88E5&center=true&vCenter=true&width=680&height=60&lines=Hi%2C+I%27m+momo+%F0%9F%91%8B;Agent+%E5%BC%80%E5%8F%91+%26+Java%2FGo+%E5%90%8E%E7%AB%AF%E5%AD%A6%E4%B9%A0%E4%B8%AD+%F0%9F%A4%96%E2%98%95;LeetCode+Hot+100+%E5%88%B7%E9%A2%98%E4%B8%AD+%F0%9F%94%A5;CUPK+%E5%9C%A8%E6%A0%A1%E7%94%9F+%F0%9F%9B%A2%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=1E88E5&center=true&vCenter=true&width=680&height=60&lines=Hi%2C+I%27m+Baicaicn+%F0%9F%91%8B;Agent+%E5%BC%80%E5%8F%91+%26+Java%2FGo+%E5%90%8E%E7%AB%AF%E5%AD%A6%E4%B9%A0%E4%B8%AD+%F0%9F%A4%96%E2%98%95;LeetCode+Hot+100+%E5%88%B7%E9%A2%98%E4%B8%AD+%F0%9F%94%A5;CUPK+%E5%9C%A8%E6%A0%A1%E7%94%9F+%F0%9F%9B%A2%EF%B8%8F" alt="Typing SVG" />
 
-**momo** · [@Baicaicn23](https://github.com/Baicaicn23)
+**Baicaicn** · [@Baicaicn23](https://github.com/Baicaicn23)
 
 ![Agent](https://img.shields.io/badge/学习中-Agent开发-1E88E5?style=flat-square&logo=robotframework&logoColor=white) ![Java](https://img.shields.io/badge/学习中-Java-f89820?style=flat-square&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/学习中-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![LeetCode](https://img.shields.io/badge/刷题中-Hot_100-FFA116?style=flat-square&logo=leetcode&logoColor=white) ![CUPK](https://img.shields.io/badge/在校生-CUPK-9C27B0?style=flat-square) ![更新](https://img.shields.io/badge/状态-持续更新-brightgreen?style=flat-square)
 
