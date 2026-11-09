@@ -12,13 +12,16 @@
 
 ---
 
-## 项目开发
+## 精选项目
 
 | 项目 | 方向 | 状态 |
 | --- | --- | --- |
-| **Globex** | 购物 Agent | 开发中 |
-| 大学生比赛 Agent | 面向大学生竞赛场景的 Agent | 开发中 |
-| 传统 Java 项目 | 若干项目并行开发 | 开发中 |
+| [StudyGraph](https://github.com/Baicaicn23/StudyGraph) | LangGraph 学习助理 · RAG / HITL | 竞赛作品 |
+| [contest-agent](https://github.com/Baicaicn23/contest-agent) | 校园竞赛信息 Agent · FastAPI / Next.js | 已开源 |
+| [TeachX](https://github.com/Baicaicn23/TeachX) | 学习助手 Agent · RAG / 工具可靠性 | 开发中 |
+| [trip-planner](https://github.com/Baicaicn23/trip-planner) | 多 Agent 旅行助手 · FastAPI / Vue3 / MCP | 已开源 |
+| [leetcode-notes](https://github.com/Baicaicn23/leetcode-notes) | 算法与数据结构笔记 | 持续更新 |
+| [X_moniqi](https://github.com/Baicaicn23/X_moniqi) | X 风格推文卡片生成器 | [在线可用](https://baicaicn23.github.io/X_moniqi/) |
 
 <!-- ✏️ 项目有新进展直接改「状态」列；想加简介或链接，把项目名改成 [名字](链接) 即可 -->
 
