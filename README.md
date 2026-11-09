@@ -6,7 +6,7 @@
 
 **Baicaicn** · [@Baicaicn23](https://github.com/Baicaicn23)
 
-<code>CUPK 在校生</code> &nbsp;·&nbsp; <code>Agent 开发</code> &nbsp;·&nbsp; <code>Java / Go 后端</code>
+<code>北京邮电大学 在校生</code> &nbsp;·&nbsp; <code>Agent 开发</code> &nbsp;·&nbsp; <code>Java / Go 后端</code>
 
 </div>
 
